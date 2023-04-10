@@ -523,7 +523,7 @@ For complete access to the API, obtain an API token by contacting nephtrackingsu
 </details>
 
 <details>
- <summary><code>GET</code> <code><b>/</b></code> <code>temporalitems/{MeasureID}/{GeographicTypeId}/1/{GeographicItemIds}</code> | List time-ranges available for a measure at a certain geography</summary>
+ <summary><code>GET</code> <code><b>/</b></code> <code>temporalitems/{MeasureID}/{GeographicTypeId}/1/{GeographicItemIds}</code> | List time-ranges available for a measure at a certain location</summary>
 
 ##### Path parameters
 
