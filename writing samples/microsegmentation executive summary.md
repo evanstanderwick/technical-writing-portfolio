@@ -1,3 +1,16 @@
+<details>
+<summary><i>Background</i></summary>
+
+You can find many explanations of microsegmentation on the internet, but I found that most of them fell into one of two categories:
+
+1. the explanation was detailed and correct, but verbose and overly-technical
+2. the explanation was concise and easy to understand, but biased towards a particular product
+
+So, I wrote this document to provide a concise, correct, and unbiased definition of microsegmentation. The intended audience for this document is the executive who has some familiarity with basic cybersecurity concepts, but doesn't interact with IT on a daily basis.
+
+</details>
+</br>
+
 # Microsegmentation: Executive Summary
 
 This document will define microsegmentation and explain why it is a necessary part of a good network security approach.

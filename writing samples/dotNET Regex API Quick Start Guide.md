@@ -1,3 +1,13 @@
+<details>
+<summary><i>Background</i></summary>
+
+.NET's regex API is powerful, but not intuitive if you haven't worked with it before. So, for newcomers to use the API effectively, they'll consistently need to refer to the API's documentation. However, Microsoft's official documentation for this API is verbose and difficult to parse, with essential information hidden amongst rarely-needed details.
+
+I wrote this quick start guide to provide a concise, easily-scannable guide to the most essential features of the API. The intended audience for this document is the intermediate-level developer who is familiar with regex, but not with regex in C#.
+
+</details>
+</br>
+
 # C# .NET Regex API Quick Start Guide
 
 This document will explain how you can get started using regular expressions (regex) in C# using .NET 7 or above.

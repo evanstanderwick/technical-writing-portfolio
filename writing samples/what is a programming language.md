@@ -1,3 +1,11 @@
+<details>
+<summary><i>Background</i></summary>
+
+I wrote this document to explain the basics of programming languages and how they work, with the goal of providing some context for someone who previously had none. The intended audience for this document is the person who has used computers before, but knows nothing about how they work.
+
+</details>
+</br>
+
 # What Is a Programming Language?
 
 _Programming_ is a fancy word that simply means _telling a computer to do something_.

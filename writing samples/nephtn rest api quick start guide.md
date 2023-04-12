@@ -1,3 +1,13 @@
+<details>
+<summary><i>Background</i></summary>
+
+I used the NEPHTN API for my capstone project in college. I was amazed at the API's power, but overwhelmed by the 100+ page user guide which was the API's only public documentation. It took days of confusion before my team and I realized that 90% of this documentation was mostly irrelevant, since you could use the API for its main purpose with just a few endpoints.
+
+I wrote this quick start guide to provide developers with a clear, concise, easily-scannable reference for the API's main functionality. The intended audience for this document is the software developer who is familiar with REST APIs, but has no experience using the NEPHTN API.
+
+</details>
+</br>
+
 [//]: # (markdown structure inspired by https://gist.github.com/azagniotov/a4b16faf0febd12efbc6c3d7370383a6)
 [//]: # (This document is a condensed rewrite of the NEPHTN API's existing documentation, which the CDC owns. I copied some snippets from the API's existing documentation, such as response schemas for a few endpoints. However, the vast majority of this document is my own writing.)
 
